@@ -265,7 +265,7 @@
 
 - 토스 SDK를 이용해 결제 시스템 구축함. 서비스 서버와의 상호작용을 포함한 전체 과정은 다음과 같음
 
-![image__12_](/uploads/cec979b83fbc61639df02b2132671e90/image__12_.png)
+![image (12)](https://github.com/user-attachments/assets/fa89b12d-cc2b-42a6-9ba7-dc9f1df9441f)
 
 ### Front-End Optimistic Update를 통한 UX 개선
 
@@ -273,48 +273,48 @@
 
 ### 서비스 아키텍쳐
 
-![image__13_](/uploads/655a53582922ad14edf2834df940facd/image__13_.png)
+![image (13)](https://github.com/user-attachments/assets/b9d735ac-6b9e-4432-bc8c-2a7743c08d22)
 
 ## 4. 사용 화면
 ### 점주 로그인 후 테이블/메뉴 확인
 
-![1._점주_로그인_후_테이블과_메뉴확인](/uploads/08b6ab861e0a7094cf5b79a2ea3f24c8/1._점주_로그인_후_테이블과_메뉴확인.gif)
+![1  점주 로그인 후 테이블과 메뉴확인](https://github.com/user-attachments/assets/565679f2-f7e6-4366-88cf-9df72188c53a)
 
 ### 테이블 추가
 
-![2._테이블_추가](/uploads/d0fc199e26d0c09c7598474c2093a500/2._테이블_추가.gif)
+![2  테이블 추가](https://github.com/user-attachments/assets/7051ed04-69c6-45dc-a772-387b55a3b058)
 
 ### 테이블 상세정보, QR 재생성
 
-![3._테이블_상세정보_QR재생성_수정](/uploads/a721eca3bfb2b772293ea7569e5d9217/3._테이블_상세정보_QR재생성_수정.gif)
+![3  테이블 상세정보,QR재생성,수정](https://github.com/user-attachments/assets/3319f74f-0c4e-4ccb-8b60-e58f5c04de20)
 
 
 ### 메뉴 설정
 
-![4._메뉴설정화면](/uploads/e0b79b7d15dfff5dde835aba097507a5/4._메뉴설정화면.gif)
+![4  메뉴설정화면](https://github.com/user-attachments/assets/85cddd72-788a-40f9-a72a-361e57491f95)
 
 
 ### 지도에서 식당확인
 
-![5._지도에서_식당확인](/uploads/cd441ffa8bc53d565241433caa6e2005/5._지도에서_식당확인.gif)
+![5  지도에서 식당확인-min](https://github.com/user-attachments/assets/f8a4a26b-e574-48f0-9f7a-66d54279d61e)
 
 
 ### 일행과 동시주문
 
-![78._일행과_동시주문](/uploads/ccd7e1a2f5cb40558119834ef99cdd29/78._일행과_동시주문.gif)
+![78  일행과 동시주문](https://github.com/user-attachments/assets/fcd0188a-8e4d-41bc-abdd-e17bc1868961)
 
 
 ### 메뉴 결제
 
 1. **매장 관리 페이지**
     
-![image__15_](/uploads/11cecbe1465e72f4fec6affd27fcdac8/image__15_.png)
+![image (15)](https://github.com/user-attachments/assets/81de3d27-101b-4bbb-9bae-7b6f654c9719)
     
 2. **고객 핵심 기능 - 가게 실시간 현황 및 최신 메뉴판**
 
-![image__14_](/uploads/b8bca42948fbba66ebac2be1fe86f8b4/image__14_.png)
+![image (14)](https://github.com/user-attachments/assets/e9c591b5-bcb3-46fb-86d8-cb0f35732fcd)
 
-![image__16_](/uploads/7a3c4e2375359e2ade1ff04c2d52c852/image__16_.png)
+![image (16)](https://github.com/user-attachments/assets/426aa5c4-bac0-4336-84a7-977356114534)
 
 ## 5. 결론
 
@@ -328,8 +328,7 @@
 
 ## MySQL ERD
 
-[https://www.erdcloud.com/d/7KE5MkJjDW3cQuJ6P](https://www.erdcloud.com/d/JdeXC8RLKDNnsrHuy)
-![erd](/uploads/d6cd3a46215a6cea50fde2218bdffc0a/erd.PNG)
+![erd](https://github.com/user-attachments/assets/0e61d650-2516-4ef5-9c9d-fa6b1ac5d494)
 
 # UCC 링크
 
