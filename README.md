@@ -265,7 +265,7 @@
 
 - 토스 SDK를 이용해 결제 시스템 구축함. 서비스 서버와의 상호작용을 포함한 전체 과정은 다음과 같음
 
-![image (12)](https://github.com/user-attachments/assets/fa89b12d-cc2b-42a6-9ba7-dc9f1df9441f)
+![image (12)](/src/image__12_.png)
 
 ### Front-End Optimistic Update를 통한 UX 개선
 
@@ -273,48 +273,48 @@
 
 ### 서비스 아키텍쳐
 
-![image (13)](https://github.com/user-attachments/assets/b9d735ac-6b9e-4432-bc8c-2a7743c08d22)
+![image (13)](/src/image__13_.png)
 
 ## 4. 사용 화면
 ### 점주 로그인 후 테이블/메뉴 확인
 
-![1  점주 로그인 후 테이블과 메뉴확인](https://github.com/user-attachments/assets/565679f2-f7e6-4366-88cf-9df72188c53a)
+![1  점주 로그인 후 테이블과 메뉴확인](/src/1._점주_로그인_후_테이블과_메뉴확인.gif)
 
 ### 테이블 추가
 
-![2  테이블 추가](https://github.com/user-attachments/assets/7051ed04-69c6-45dc-a772-387b55a3b058)
+![2  테이블 추가](/src/2._테이블_추가.gif)
 
 ### 테이블 상세정보, QR 재생성
 
-![3  테이블 상세정보,QR재생성,수정](https://github.com/user-attachments/assets/3319f74f-0c4e-4ccb-8b60-e58f5c04de20)
+![3  테이블 상세정보,QR재생성,수정](/src/3._테이블_상세정보_QR재생성_수정.gif)
 
 
 ### 메뉴 설정
 
-![4  메뉴설정화면](https://github.com/user-attachments/assets/85cddd72-788a-40f9-a72a-361e57491f95)
+![4  메뉴설정화면](/src/4._메뉴설정화면.gif)
 
 
 ### 지도에서 식당확인
 
-![5  지도에서 식당확인-min](https://github.com/user-attachments/assets/f8a4a26b-e574-48f0-9f7a-66d54279d61e)
+![5  지도에서 식당확인-min](/src/5._지도에서_식당확인.gif)
 
 
 ### 일행과 동시주문
 
-![78  일행과 동시주문](https://github.com/user-attachments/assets/fcd0188a-8e4d-41bc-abdd-e17bc1868961)
+![78  일행과 동시주문](/src/78._일행과_동시주문.gif)
 
 
 ### 메뉴 결제
 
 1. **매장 관리 페이지**
     
-![image (15)](https://github.com/user-attachments/assets/81de3d27-101b-4bbb-9bae-7b6f654c9719)
+![image (15)](/src/image__15_.png)
     
 2. **고객 핵심 기능 - 가게 실시간 현황 및 최신 메뉴판**
 
-![image (14)](https://github.com/user-attachments/assets/e9c591b5-bcb3-46fb-86d8-cb0f35732fcd)
+![image (14)](/src/image__14_.png)
 
-![image (16)](https://github.com/user-attachments/assets/426aa5c4-bac0-4336-84a7-977356114534)
+![image (16)](/src/image__16_.png)
 
 ## 5. 결론
 
@@ -322,13 +322,14 @@
 
 ## 6. UI/UX기획
 
-[https://www.figma.com/design/paoPdGGVdWBKbgWYgUtBml/SSAFY-11기-자율-프로젝트(주문-서비스)?node-id=4061-1359&node-type=canvas&t=RjzGY3S7FZObt13g-0](https://www.figma.com/design/paoPdGGVdWBKbgWYgUtBml/SSAFY-11%EA%B8%B0-%EC%9E%90%EC%9C%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(%EC%A3%BC%EB%AC%B8-%EC%84%9C%EB%B9%84%EC%8A%A4)?node-id=4061-1359&node-type=canvas&t=RjzGY3S7FZObt13g-0)
+![DesignSystem](/src/DesignSystem.png)
+[figma](https://www.figma.com/design/paoPdGGVdWBKbgWYgUtBml/SSAFY-11%EA%B8%B0-%EC%9E%90%EC%9C%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(%EC%A3%BC%EB%AC%B8-%EC%84%9C%EB%B9%84%EC%8A%A4)?node-id=4061-1359)
 
 # DB 설계
 
 ## MySQL ERD
 
-![erd](https://github.com/user-attachments/assets/0e61d650-2516-4ef5-9c9d-fa6b1ac5d494)
+![ERD](https://www.erdcloud.com/d/JdeXC8RLKDNnsrHuy) 
 
 # UCC 링크
 
