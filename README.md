@@ -328,8 +328,8 @@
 # DB 설계
 
 ## MySQL ERD
-
-![ERD](https://www.erdcloud.com/d/JdeXC8RLKDNnsrHuy) 
+![ERD](/src/ERD.png)
+[ERD](https://www.erdcloud.com/d/JdeXC8RLKDNnsrHuy) 
 
 # UCC 링크
 
